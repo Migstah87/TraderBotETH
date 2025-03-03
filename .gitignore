@@ -1,5 +1,3 @@
-# Environment files with sensitive information
-.env
 
 # Python bytecode
 __pycache__/
