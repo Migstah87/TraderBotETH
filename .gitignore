@@ -19,3 +19,4 @@ venv/
 
 # Sensitive credentials
 *.pem
+*.env
