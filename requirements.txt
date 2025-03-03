@@ -1,0 +1,24 @@
+# Technical Analysis and Machine Learning
+numpy
+pandas
+stable-baselines3
+gym
+gym-anytrading
+shimmy>=2.0
+
+# Coinbase and Trading
+coinbase-advanced-py
+python-dotenv
+
+# Async and Networking
+aiohttp
+pytz==2024.1
+websockets
+requests
+
+# Web Framework
+fastapi
+uvicorn
+python-multipart
+
+

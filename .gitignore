@@ -1,0 +1,23 @@
+# Environment files with sensitive information
+.env
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Logs
+*.log
+
+# Virtual environment
+venv/
+.venv/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Mac system files
+.DS_Store
+
+# Sensitive credentials
+*.pem
